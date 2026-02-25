@@ -12,6 +12,7 @@ I organized the solutions topic-wise with clear input constraints, sample output
 - Numbers Programs (Prime, Armstrong, Fibonacci, Factorial, etc.)
 - Series & Conditions (Range-based problems, switch-case style logic)
 - Mathematical Methods (GCD, LCM, AP, GP, HP)
+- Lists Programs (Searching, Sorting, Duplicate Removal, Frequency Count, etc.)
 
 ## Skills Demonstrated
 - Python fundamentals (I/O, loops, conditions)
